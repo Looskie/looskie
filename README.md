@@ -1,5 +1,4 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=looskie&show_icons=true">
-<img align='right' src="https://lanyard-profile-readme.vercel.app/api/207204046115831809">
 
 ### Hi there 👋
 
@@ -18,3 +17,4 @@ Merged PR: https://github.com/alii/discord-jsx/pull/1
 <a href="https://www.looskie.com/" target="_blank">
   <img align="left" width="22px" alt="Looskie's website" src="http://simpleicon.com/wp-content/uploads/link-2.png"/>
 </a>
+<img align='right' src="https://lanyard-profile-readme.vercel.app/api/207204046115831809">
