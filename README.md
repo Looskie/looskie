@@ -18,6 +18,6 @@ Merged PR: https://github.com/alii/discord-jsx/pull/1
   <img align="left" width="22px" alt="Looskie's website" src="http://simpleicon.com/wp-content/uploads/link-2.png"/>
 </a>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:id)](https://discord.com/users/:id)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/207204046115831809)](https://discord.com/users/207204046115831809)
 
 
