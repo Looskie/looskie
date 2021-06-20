@@ -8,6 +8,9 @@ I make designs on <a href="https://www.instagram.com/devlooskie" target="_blank"
 
 Merged PR: https://github.com/alii/discord-jsx/pull/1
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/207204046115831809)](https://discord.com/users/207204046115831809)
+
+
 <a href="https://twitter.com/devlooskie" target="_blank">
   <img align="left" width="22px" alt="Looskie's twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -17,7 +20,4 @@ Merged PR: https://github.com/alii/discord-jsx/pull/1
 <a href="https://www.looskie.com/" target="_blank">
   <img align="left" width="22px" alt="Looskie's website" src="http://simpleicon.com/wp-content/uploads/link-2.png"/>
 </a>
-<br />
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/207204046115831809)](https://discord.com/users/207204046115831809)
-
 
