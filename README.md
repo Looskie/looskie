@@ -2,11 +2,9 @@
 
 ### Hi there 👋
 
-I'm Cody, a front-end and semi-backend developer
+I'm Cody, a fullstack webdeveloper
 
-I make designs on <a href="https://www.instagram.com/devlooskie" target="_blank">Instagram</a> too lol 
-
-Merged PR: https://github.com/alii/discord-jsx/pull/1
+I make designs on <a href="https://www.instagram.com/devlooskie" target="_blank">Instagram</a> too!
 
 <a href="https://twitter.com/devlooskie" target="_blank">
   <img align="left" width="22px" alt="Looskie's twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
