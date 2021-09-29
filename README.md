@@ -6,7 +6,7 @@ I'm Cody, a fullstack webdeveloper
 
 I make designs on <a href="https://www.instagram.com/devlooskie" target="_blank">Instagram</a> too!
 
-<img src="https://api.hits.link/v1/hits?url=https://github.com/Looskie&svg=true&bg=FAA0A0" alt="Hits">
+<img src="https://api.hits.link/v1/hits?url=https://github.com/Looskie&svg=true&bg=FAA0A0&test=test" alt="Hits">
 
 <a href="https://twitter.com/devlooskie" target="_blank">
   <img align="left" width="22px" alt="Looskie's twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
