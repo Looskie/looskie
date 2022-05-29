@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=looskie&show_icons=true&bg_color=00000000&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&icon_color=4F8CC9">
+<img align='right' src="https://lanyard-profile-readme.vercel.app/api/207204046115831809?bg=00000000">
 
 ### Hi there 👋
 
@@ -19,4 +19,3 @@ I make designs on <a href="https://www.instagram.com/devlooskie" target="_blank"
   <img align="left" width="22px" alt="Looskie's website" src="http://simpleicon.com/wp-content/uploads/link-2.png"/>
 </a>
 <br />
-<img align='right' src="https://lanyard-profile-readme.vercel.app/api/207204046115831809?bg=00000000">
