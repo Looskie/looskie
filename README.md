@@ -6,7 +6,7 @@ I'm Cody, a fullstack webdeveloper
 
 I make designs on <a href="https://www.instagram.com/devlooskie" target="_blank">Instagram</a> too!
 
-![Hits](https://hits-app.vercel.app/v1/hits?url=https%3A%2F%2Fgithub.com%2Flooskie&bgRight=FAA0A0)
+![Hits](https://hits-app.vercel.app/hits?url=https%3A%2F%2Fgithub.com%2Flooskie&bgRight=FAA0A0)
 ![some stupid thing](https://raster.shields.io/badge/Is%20It%20Friday%3F-Yes!-%231CED2A.png)
 
 <a href="https://twitter.com/devlooskie" target="_blank">
